@@ -1,0 +1,4 @@
+backtrader
+pandas
+numpy
+# Adicionar futuramente: scikit-learn, MetaTrader5, xgboost
